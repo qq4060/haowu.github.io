@@ -1,2 +1,2 @@
-# https://github.com/qq4060/Hao-Wu
+# haowu.github.io
 Repository for Hao Wu's academic research website.
